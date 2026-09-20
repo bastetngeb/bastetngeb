@@ -7,7 +7,9 @@
   <p align="center">
     mwaa!! tysm <a href="https://github.com/title-town">title-town</a> , <a href="https://github.com/charactersofpt">charactersofpt</a> , <a href="https://github.com/ponytowncosplayers">ponytowncosplayers</a> & <a href="https://github.com/pt-friendships">pt-friendships!!</a>
   </p>
+  <p align="center">
   <img width="384" height="199" alt="image" src="https://github.com/user-attachments/assets/a70f56fa-a283-41aa-863a-9fa8c3d324e5" />
+  </p>
 <img alt="divider >_<" src="https://i.postimg.cc/Nj2LVf1M/Untitled688-20260710202754.png" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
