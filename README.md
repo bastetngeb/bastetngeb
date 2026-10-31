@@ -5,7 +5,7 @@
 <p align= center> <img alt="mari" src="https://i.postimg.cc/8C1dV6tV/Untitled690-20260710223314.png" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=500&duration=5003&pause=50&color=741B4B&center=true&vCenter=true&width=435&lines=%22+You're+good-looking.+.+.%22;%22+But+you're+nowhere+handsome+as.+.%22;%22+LORD+DIO!+%22" alt="Typing SVG" /></a>
   <p align="center">
-    mwaa!! tysm <a href="https://github.com/title-town">title-town</a> , <a href="https://github.com/charactersofpt">charactersofpt</a> , <a href="https://github.com/ponytowncosplayers">ponytowncosplayers</a> , <a href="https://github.com/THE-TEMPIST" > the noliminations! </a> <a href="https://github.com/Knox-Event"> the knox event </a>& <a href="https://github.com/pt-friendships">pt-friendships!!</a>
+    mwaa!! tysm <a href="https://github.com/title-town">title-town</a> , <a href="https://github.com/charactersofpt">charactersofpt</a> , <a href="https://github.com/ponytowncosplayers">ponytowncosplayers</a> , <a href="https://github.com/THE-TEMPIST" > the noliminations! </a> , <a href="https://github.com/Knox-Event"> the knox event </a>& <a href="https://github.com/pt-friendships">pt-friendships!!</a>
   </p>
   <p align="center">
   <img width="384" height="199" alt="image" src="https://github.com/user-attachments/assets/a70f56fa-a283-41aa-863a-9fa8c3d324e5" />
